@@ -7,4 +7,4 @@ on run {input, parameters}
 		open myitem
 	end tell
 	return input
-end ru
+end run
